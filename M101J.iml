@@ -24,13 +24,8 @@
     <orderEntry type="library" name="Maven: org.eclipse.jetty:jetty-servlet:9.0.2.v20130417" level="project" />
     <orderEntry type="library" name="Maven: org.eclipse.jetty:jetty-security:9.0.2.v20130417" level="project" />
     <orderEntry type="library" scope="TEST" name="Maven: junit:junit:3.8.1" level="project" />
-    <orderEntry type="library" name="Maven: org.mongodb:mongodb-driver:3.0.0-beta3" level="project" />
-    <orderEntry type="library" name="Maven: org.mongodb:mongodb-driver-core:3.0.0-beta3" level="project" />
-    <orderEntry type="library" name="Maven: io.netty:netty-buffer:4.0.24.Final" level="project" />
-    <orderEntry type="library" name="Maven: io.netty:netty-common:4.0.24.Final" level="project" />
-    <orderEntry type="library" name="Maven: io.netty:netty-handler:4.0.24.Final" level="project" />
-    <orderEntry type="library" name="Maven: io.netty:netty-transport:4.0.24.Final" level="project" />
-    <orderEntry type="library" name="Maven: io.netty:netty-codec:4.0.24.Final" level="project" />
-    <orderEntry type="library" name="Maven: org.mongodb:bson:3.0.0-beta3" level="project" />
+    <orderEntry type="library" name="Maven: org.mongodb:mongodb-driver:3.0.4" level="project" />
+    <orderEntry type="library" name="Maven: org.mongodb:bson:3.0.4" level="project" />
+    <orderEntry type="library" name="Maven: org.mongodb:mongodb-driver-core:3.0.4" level="project" />
   </component>
 </module>
